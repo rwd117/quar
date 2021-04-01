@@ -6,4 +6,4 @@ JavaScript를 이용해서 canvas 화면 덮기
 ---------------------
 생활 코딩 게시물에서 발견 후 '해보고싶다' 라고 생각.
 
-[링크]#https://rwd117.github.io/quar/main
+[링크] #https://rwd117.github.io/quar/main
